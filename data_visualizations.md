@@ -1,3 +1,11 @@
+<div align="right">
+  <a href="index.html">Home</a> | 
+  <a href="dataset.html">Dataset Versions</a> | 
+  <strong>Visualizations</strong> | 
+  <a href="methodology.html">Methodology</a> | 
+  <a href="papers.html">Publications</a>
+</div>
+
 # Data Visualizations
 
 The USASSA dataset enables researchers, journalists, and policymakers to accurately trace the shifting landscape of U.S. foreign policy and military engagement. 
