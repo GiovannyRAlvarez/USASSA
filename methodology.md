@@ -12,7 +12,7 @@ Bridging the gap between raw government disbursement logs and rigorous academic 
 
 ## The USASSA Architecture
 
-![Methodology Flowchart](assets/methodology.png)
+![Methodology Flowchart](methodology_paths.png)
 
 The creation of the Version 2.0 dataset (expanding coverage through 2026) relies on a hybrid approach that maximizes both scale and accuracy:
 
