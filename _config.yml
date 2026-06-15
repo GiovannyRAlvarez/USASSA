@@ -1,6 +1,6 @@
 title: U.S. Aid to Security Sector Actors
 description: A comprehensive, global tracking of unclassified U.S. security assistance from 2000 to 2026 (Q1). By <a href="https://plsullivan.web.unc.edu/" target="_blank">Patricia Sullivan</a> & <a href="https://giovannyralvarez.github.io/" target="_blank">Giovanny Alvarez</a> 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 navigation:
   - title: Home
     url: /
