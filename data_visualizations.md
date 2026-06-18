@@ -10,7 +10,7 @@
 
 The USASSA dataset enables researchers, journalists, and policymakers to accurately trace the shifting landscape of U.S. foreign policy and military engagement. 
 
-## The Rise of Lethal Assistance (2000 - 2026)
+## Two Decades of Lethal Assistance (2000 - 2026)
 
 ![U.S. Security Assistance Trends 2000-2026](assets/usassa_trends.png)
 
