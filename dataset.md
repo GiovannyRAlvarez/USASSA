@@ -11,16 +11,16 @@
 The USASSA data is provided at the country-year level to facilitate seamless merging with standard political science and econometric panels.
 
 ## USASSA Codebook 
-*   [Codebook_v2.pdf](link) - Comprehensive variable definitions and methodology.
+*   [Codebook_USASSA V1.pdf](link) - Comprehensive variable definitions and methodology.
 
-## Version 2.0 (Active)
-**Coverage: 2000 – 2026**
+## Version 1.1 (Active)
+**Coverage: 2000 – 2025**
 
 This major update expands the dataset utilizing primary disbursement data from ForeignAssistance.gov. The coding protocol integrates AI-assisted algorithmic classification mapped to the original typologies, followed by rigorous manual verification by the research team.
 
-*   [USASSA_v2_Country_Year.csv](link) - The primary analysis dataset.
-*   [USASSA_v2_RAW_LineItems.csv](link) - The unaggregated, raw line-item data preserving the original text fields and the binary `out_of_scope` exclusion flags.
-*   [Replication_Script.do](link) - Stata script for generating composite `lethal` and `nonlethal` variables.
+*   [USASSA_FA 2001-2025.csv](link) - The primary analysis dataset.
+*   [USASSA20-25v1.2.dta](link) - The primary analysis dataset.
+*   [USASSA FA V1.do](link) - Replication Stata script for generating composite variables.
 
 ## Version 1.0 (Archived)
 **Coverage: 2000 – 2019**
