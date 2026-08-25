@@ -28,4 +28,4 @@ This major update expands the dataset utilizing primary disbursement data from F
 The foundational dataset compiled in collaboration with the Security Assistance Monitor (SAM).
 
 *   [USASSA_v1_Country_Year.csv](link)
-*   [USASSA_v1_Codebook.pdf](link)
+  
