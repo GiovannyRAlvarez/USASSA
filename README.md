@@ -6,7 +6,7 @@
   <a href="papers.html">Publications</a>
 </div>
 
-# ****THIS PAGE IS UNDER CONSTRUCTION*****
+
 
 # U.S. Aid to Security Sector Actors (USASSA) Dataset
 ![USASSA Global Network Map](header.png)
